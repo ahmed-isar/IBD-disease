@@ -24,3 +24,11 @@ The data contains information about 33K patients
 - diet_preference: which diet the patient follows
 - cancer: is the patient has cancer or not
 - heart_disease: is the patient has heart disease or not
+
+### Questions
+**The task requires me to answer some questions**
+- What is the percentage of each BMI category in each age group
+- Which type of IBD tends to have sufferers of a higher BMI?
+- Which type of IBD has more sufferers that smoke or previously smoked?
+- Which type of IBD has more cancer sufferers?
+- Which type of IBD has more heart disease sufferers?
