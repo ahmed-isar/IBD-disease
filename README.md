@@ -16,7 +16,7 @@ The data contains information about 33K patients
 - hosp_admin: integer value indicates if the patient recorded in a hospital or not
   - 1 means Yes
   - 2 means No
-  - 1 means Unknown
+  - 3 means Unknown
 - age_band_jan1: the age value for each patient 
 - bmi: contains the body mass for each patient
 - smoker: is the patient smoker or not
